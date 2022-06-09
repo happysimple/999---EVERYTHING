@@ -1,8 +1,25 @@
 # Everything
 
-```{toctree}
-:maxdepth: 2
+欢迎来到Everything篇章！如果您有任何建议或补充，欢迎您联系我！QQ：1292584987
 
-001---好物推荐/index
-002---技能/index
+---
+
+<center><img src="_static\1.jpg" alt="1" style="zoom:25%;" /></center>
+
+<center>做自己热爱，让心欢喜的事!</center>
+
+---
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+
+001---好物推荐/001---好物推荐
 ```
+```{toctree}
+:maxdepth: 1
+:hidden:
+
+002---小技能/001---小技能
+```
+

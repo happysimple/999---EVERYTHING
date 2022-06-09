@@ -1,0 +1,138 @@
+# 好物推荐
+
+## 1.超算
+
+官网：[https://www.paratera.com/](https://www.paratera.com/)
+
+软件界面：
+
+<img src="..\_static\017.png" alt="017" style="zoom:25%;" />
+
+## 2.Grammarly
+
+```{note}
+功能：检查英语语法(收费)
+```
+
+官网：[https://app.grammarly.com/](https://app.grammarly.com/)
+
+软件界面：
+
+<img src="..\_static\018.png" alt="017" style="zoom:35%;" />
+
+## 3.LSTM教学视频
+
+①Python：[https://www.bilibili.com/video/BV1f5411K7qD/?spm_id_from=333.788](https://www.bilibili.com/video/BV1f5411K7qD/?spm_id_from=333.788)
+
+②Matlab：[https://www.bilibili.com/video/BV1ZS4y1P7R6/?spm_id_from=333.788](https://www.bilibili.com/video/BV1ZS4y1P7R6/?spm_id_from=333.788)
+
+## 4.Climate Data Toolbox for Matlab
+
+工具箱：[https://www.chadagreene.com/CDT/CDT_Getting_Started.html](https://www.chadagreene.com/CDT/CDT_Getting_Started.html)
+
+## 5.木瓜云
+
+```{note}
+功能：科学上网(收费)
+```
+
+官网：[https://muguacloud.win/user](https://muguacloud.win/user)
+
+网站界面：
+
+<img src="..\_static\2.png" alt="017" style="zoom:35%;" />
+
+## 6.阿里巴巴矢量图标库
+
+官网：[https://www.iconfont.cn/](https://www.iconfont.cn/)
+
+## 7.视频VIP解析
+
+官网：[https://video.luochenzhimu.com/](https://video.luochenzhimu.com/)
+
+## 8.ColorBrewer
+
+```{tip}
+功能：配色。有时需要科学上网访问。
+```
+
+官网：[https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+
+## 9.Hugo+Netlify
+
+```{note}
+功能：制作个人博客
+```
+
+Hugo官网：[https://www.gohugo.cn/](https://www.gohugo.cn/)
+
+Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
+
+## 10.GMT
+
+```{note}
+功能：地图绘制
+```
+
+官网：[https://gmt-china.org/](https://gmt-china.org/)
+
+## 11.面包多
+
+```{note}
+功能：售卖个人作品
+```
+
+官网：[https://mianbaoduo.com/](https://mianbaoduo.com/)
+
+## 12.扫描全能王(APP)
+
+```{note}
+功能：电子化纸质文件
+```
+
+## 13.FileZilla
+
+```{note}
+功能：批量下载FTP网站文件
+```
+
+官网：[https://www.filezilla.cn/](https://www.filezilla.cn/)
+
+## 14.BandicamPortable
+
+```{note}
+功能：录屏
+
+下载：{download}`BandicamPortable<..\_static/BandicamPortable.zip>`
+```
+
+## 15.迅捷PDF转换
+
+下载：{download}`迅捷PDF转换<..\_static/迅捷PDF转换.zip>`
+
+## 16.Visio
+
+```{note}
+功能：绘制流程图,属于office
+```
+
+## 17.MythType7.4
+
+```{note}
+功能：书写数学公式
+
+下载：{download}`MythType7.4<..\_static/MathType7.4.zip>`
+```
+
+## 18.XMind
+
+```{note}
+功能：绘制思维导图
+
+下载：{download}`XMind.7z<..\_static/XMind.7z>`
+```
+
+
+
+
+
