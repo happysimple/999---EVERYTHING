@@ -30,27 +30,15 @@
 
 工具箱：[https://www.chadagreene.com/CDT/CDT_Getting_Started.html](https://www.chadagreene.com/CDT/CDT_Getting_Started.html)
 
-## 5.木瓜云
-
-```{note}
-功能：科学上网(收费)
-```
-
-官网：[https://muguacloud.win/user](https://muguacloud.win/user)
-
-网站界面：
-
-<img src="..\_static\2.png" alt="017" style="zoom:35%;" />
-
-## 6.阿里巴巴矢量图标库
+## 5.阿里巴巴矢量图标库
 
 官网：[https://www.iconfont.cn/](https://www.iconfont.cn/)
 
-## 7.视频VIP解析
+## 6.视频VIP解析
 
 官网：[https://video.luochenzhimu.com/](https://video.luochenzhimu.com/)
 
-## 8.ColorBrewer
+## 7.ColorBrewer
 
 ```{tip}
 功能：配色。有时需要科学上网访问。
@@ -58,7 +46,7 @@
 
 官网：[https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 
-## 9.Hugo+Netlify
+## 8.Hugo+Netlify
 
 ```{note}
 功能：制作个人博客
@@ -68,7 +56,7 @@ Hugo官网：[https://www.gohugo.cn/](https://www.gohugo.cn/)
 
 Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 
-## 10.GMT
+## 9.GMT
 
 ```{note}
 功能：地图绘制
@@ -76,7 +64,7 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 
 官网：[https://gmt-china.org/](https://gmt-china.org/)
 
-## 11.面包多
+## 10.面包多
 
 ```{note}
 功能：售卖个人作品
@@ -84,13 +72,13 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 
 官网：[https://mianbaoduo.com/](https://mianbaoduo.com/)
 
-## 12.扫描全能王(APP)
+## 11.扫描全能王(APP)
 
 ```{note}
 功能：电子化纸质文件
 ```
 
-## 13.FileZilla
+## 12.FileZilla
 
 ```{note}
 功能：批量下载FTP网站文件
@@ -98,7 +86,7 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 
 官网：[https://www.filezilla.cn/](https://www.filezilla.cn/)
 
-## 14.BandicamPortable
+## 13.BandicamPortable
 
 ```{note}
 功能：录屏
@@ -106,17 +94,17 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 下载：{download}`BandicamPortable<..\_static/BandicamPortable.zip>`
 ```
 
-## 15.迅捷PDF转换
+## 14.迅捷PDF转换
 
 下载：{download}`迅捷PDF转换<..\_static/迅捷PDF转换.zip>`
 
-## 16.Visio
+## 15.Visio
 
 ```{note}
 功能：绘制流程图,属于office
 ```
 
-## 17.MythType7.4
+## 16.MythType7.4
 
 ```{note}
 功能：书写数学公式
@@ -124,7 +112,7 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 下载：{download}`MythType7.4<..\_static/MathType7.4.zip>`
 ```
 
-## 18.XMind
+## 17.XMind
 
 ```{note}
 功能：绘制思维导图
@@ -132,7 +120,16 @@ Netlify官网：[https://www.netlify.com/](https://www.netlify.com/)
 下载：{download}`XMind.7z<..\_static/XMind.7z>`
 ```
 
+## 18.向日葵
 
+```{note}
+功能：远程控制
+```
 
+## 19.Typora
 
+```{note}
+功能：Markdown编辑器
 
+下载：{download}`Typora<..\_static/Typora.zip>`
+```
